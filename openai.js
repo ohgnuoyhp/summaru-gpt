@@ -1,1 +1,0 @@
-// OpenAI API 키 설정
